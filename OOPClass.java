@@ -12,7 +12,7 @@ public class OOPClass {
     }
 
     private void printName() {
-      System.out.println(name + " " + age);
+    
     }
   }
 

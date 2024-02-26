@@ -17,7 +17,7 @@ public class JavaConstructor {
 
 
   public static void main(String[] args) {
-    System.out.println("---- OOP With Java ----");
+    System.out.println("---- OOP With Java ---- ");
     new PersonClass("Hasibul Islam", 15);
     new PersonClass("Rifat Islam", 25);
 
