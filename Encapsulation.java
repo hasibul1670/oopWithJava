@@ -9,7 +9,11 @@
 public class Encapsulation {
 
   public static void main(String[] args) {
-    System.out.println("Encapsulation in Java");
-    
+    System.out.println("Encapsulation in Java-->");
+    Person p1 = new Person();
+    p1.name = "Hasib";
+    p1.setAge(45);
+    p1.printPerson();
+
   }
 }
